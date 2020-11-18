@@ -1,0 +1,30 @@
+[
+  {
+    "category-name":"Burger",
+    "thumbnailUrl": "assets/images/topmenu/ic_burger.png"
+  },
+  {
+    "category-name":"Rice",
+    "thumbnailUrl": "assets/images/topmenu/ic_sushi.png"
+  },
+  {
+    "category-name":"Pizza",
+    "thumbnailUrl": "assets/images/topmenu/ic_pizza.png"
+  },
+  {
+    "category-name":"Cake",
+    "thumbnailUrl": "assets/images/topmenu/ic_cake.png"
+  },
+  {
+    "category-name":"Ice Cream",
+    "thumbnailUrl": "assets/images/topmenu/ic_ice_cream.png"
+  },
+  {
+    "category-name":"Soft Drink",
+    "thumbnailUrl": "assets/images/topmenu/ic_soft_drink.png"
+  },
+  {
+    "category-name":"Idiyappa",
+    "thumbnailUrl": "assets/images/topmenu/ic_sushi.png"
+  }
+]
