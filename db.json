@@ -18,13 +18,5 @@
   {
     "category-name":"Ice Cream",
     "thumbnailUrl": "assets/images/topmenu/ic_ice_cream.png"
-  },
-  {
-    "category-name":"Soft Drink",
-    "thumbnailUrl": "assets/images/topmenu/ic_soft_drink.png"
-  },
-  {
-    "category-name":"Idiyappa",
-    "thumbnailUrl": "assets/images/topmenu/ic_sushi.png"
   }
 ]
